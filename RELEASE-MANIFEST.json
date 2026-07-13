@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "kind": "source-project",
+  "created_at": "2026-07-12T01:56:43.231105+00:00",
+  "file_count": 37,
+  "files": [
+    {
+      "path": ".env.example",
+      "size": 244,
+      "sha256": "f089a9111b303415896bd3dd506e519ad69bd4396766beed9c03ebb9a36c2bbe"
+    },
+    {
+      "path": ".gitignore",
+      "size": 159,
+      "sha256": "1e4fd159a58f04f2cb13e54dfe72baf74d84e656d65df85d8c10fd055c02a6aa"
+    },
+    {
+      "path": "backup.ps1",
+      "size": 545,
+      "sha256": "491e2669f9f7e400f1cf3d87b4f5d4720d9f59480e11d99933139d33418152fa"
+    },
+    {
+      "path": "FIDELITY.md",
+      "size": 2273,
+      "sha256": "ab3c257a46960fee4db09203dc3585f838cde77152195862929a0e7add98ad92"
+    },
+    {
+      "path": "PLAN.md",
+      "size": 1646,
+      "sha256": "b1c16a5e6d3715bfe83ef24717c461b2e67c8c11b0ee1c782c5b50344f02c2d1"
+    },
+    {
+      "path": "pytest.ini",
+      "size": 108,
+      "sha256": "ffe93e1c069415eccf03b77c217bd8e4a2ac8fb8c10677a04e1ab0df95b9361a"
+    },
+    {
+      "path": "README.md",
+      "size": 4554,
+      "sha256": "81f7075b0cc14c64bc10798a100e710e14bc92fe46cc5b65dad5b75fc6cb3527"
+    },
+    {
+      "path": "Release.py",
+      "size": 5808,
+      "sha256": "9ea7d15ef368af06141c15a5c209f957b823cd0d569e05ce7b10d5b728e405ac"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 123,
+      "sha256": "302695afcde0248c7815bd2721656e73b2f92c878dc42bcdc381239e4410caab"
+    },
+    {
+      "path": "run.py",
+      "size": 791,
+      "sha256": "4d89ec27c2a6474ad9679a207f91184618942df6e973df9fac1d9ff9171e52bb"
+    },
+    {
+      "path": "server/__init__.py",
+      "size": 23,
+      "sha256": "a7833154ef22876fa19e1ec8355064aea30a04319390cb28d4b11b33a9b1de38"
+    },
+    {
+      "path": "server/ai.py",
+      "size": 3371,
+      "sha256": "412da972cae5d8eee4430f437fa70c7b9df3cad351235acae289d0592c6fd3b9"
+    },
+    {
+      "path": "server/auth.py",
+      "size": 1641,
+      "sha256": "e0817f79b1ac694a94ca56d272460987463c1948a291069a059ff83929d97b13"
+    },
+    {
+      "path": "server/config.py",
+      "size": 436,
+      "sha256": "515daf4f9489b1e0b658c304f8f27cf0ddef68892bc17373d9925b5dc4ddf2a8"
+    },
+    {
+      "path": "server/database.py",
+      "size": 2788,
+      "sha256": "3ca417b3f7fda39ba138e55296a95d9462e23fb4ec0f2b376a7acd87c1435893"
+    },
+    {
+      "path": "server/main.py",
+      "size": 8015,
+      "sha256": "590a6043aac4d881233b6fb162a489f2cfb004516ba969455128ae2200929c36"
+    },
+    {
+      "path": "server/protocol.py",
+      "size": 10351,
+      "sha256": "6a7f4ba06d1f3eff31189a877cccee98e3f0642a40bfdcc54e655380a1b63c6b"
+    },
+    {
+      "path": "server/rooms.py",
+      "size": 12042,
+      "sha256": "ba3d35335816ddbf4c21bd85bb956351804e548c6660efb0f48f5e7eea4e2dc7"
+    },
+    {
+      "path": "server/simulation.py",
+      "size": 19458,
+      "sha256": "415db35b440fe8cffcb3a07b196079558ad6f0b9be1f5f23f033cb09ffed9b88"
+    },
+    {
+      "path": "start.cmd",
+      "size": 119,
+      "sha256": "15d7cc3aebfe92296422ec7e0435e54b114b4c51b679ac67e6eb7703a215a2b1"
+    },
+    {
+      "path": "start.ps1",
+      "size": 1039,
+      "sha256": "864d6c756999b196ab2782faca3cfabec5f3a8dadf471772c227a6a693397f5f"
+    },
+    {
+      "path": "tests/test_ai.py",
+      "size": 1561,
+      "sha256": "6f3bf4a3447e9660f345a05b6732f16d992642f4fd8bd5101cdf554640790b72"
+    },
+    {
+      "path": "tests/test_api.py",
+      "size": 7922,
+      "sha256": "ee83a6c73138532fc849d767c9f7e5192caf098a948cf641872726059b5934dc"
+    },
+    {
+      "path": "tests/test_release.py",
+      "size": 696,
+      "sha256": "0d481bbcd94cc92203a3e31f273a6be426ba40881749a3f3e6b41240919a51b7"
+    },
+    {
+      "path": "tests/test_rooms.py",
+      "size": 6611,
+      "sha256": "2a85f340941395ccbabfb3ea29388925207f4c79b76dd3b6678b54a15140fdf5"
+    },
+    {
+      "path": "tests/test_simulation.py",
+      "size": 9551,
+      "sha256": "70022aca1fda8724f35ab666077d2179ff00ac159a6a30e1ea5df12c1cc8526f"
+    },
+    {
+      "path": "TODO.md",
+      "size": 7240,
+      "sha256": "50868b274b5b1bbb55c5f0e7f03aa3242ee2e73b3a16a35106ae6179efec9aa9"
+    },
+    {
+      "path": "verify.ps1",
+      "size": 540,
+      "sha256": "ccbcd534c15029df0279e69446876c54a7d124eb05ae661830e40d072204e7fd"
+    },
+    {
+      "path": "web/e2e/game.spec.ts",
+      "size": 6903,
+      "sha256": "f5740eea1de8bd3cb3e4f25837aefb6ea75b85ebea1ed00822b34d164741e6d3"
+    },
+    {
+      "path": "web/index.html",
+      "size": 73,
+      "sha256": "4a528f95431e4251fda2710be50b2bf295ed2221ecc559ca4be982ae803c9ab4"
+    },
+    {
+      "path": "web/package-lock.json",
+      "size": 44090,
+      "sha256": "abe120497d117cb57399460771e3542f8fcac4a2a33bd716818ed7bf826eb08f"
+    },
+    {
+      "path": "web/package.json",
+      "size": 329,
+      "sha256": "30e3f09d01bb1c703196f80ab6e90faa7d99232bccaa06848b445be28692bac1"
+    },
+    {
+      "path": "web/playwright.config.ts",
+      "size": 338,
+      "sha256": "0c39e2f5fbf0acab9841134af6c2bfc1c38f7bfe1e94d960c0eb1814e773c375"
+    },
+    {
+      "path": "web/src/main.tsx",
+      "size": 34342,
+      "sha256": "caeafdd9dc25b593cd0d363913b6271fbf009d70d5d87d825da5dc6a332ec625"
+    },
+    {
+      "path": "web/src/style.css",
+      "size": 4698,
+      "sha256": "183a1fe1aeda2e91fb8ae921ce08293724be2dd1734bdb841ab7bd5b7d4ce841"
+    },
+    {
+      "path": "web/src/vite-env.d.ts",
+      "size": 38,
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "path": "web/tsconfig.json",
+      "size": 388,
+      "sha256": "92aa18e5759b2f845859d10d6c55269732b2121baf1fd0971d69edc0b37e0152"
+    }
+  ],
+  "excluded": [
+    "installed dependencies (.venv, node_modules)",
+    "generated builds (web/dist)",
+    "runtime data (*.db, backups, .env)",
+    "test/build caches and reports"
+  ]
+}
